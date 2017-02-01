@@ -1,0 +1,19 @@
+{
+  "name": "reactshiz",
+  "version": "1.0.0",
+  "description": "Swoop",
+  "main": "#",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redelmo/ReactShiz.git"
+  },
+  "author": "Adam Rooney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Redelmo/ReactShiz/issues"
+  },
+  "homepage": "https://github.com/Redelmo/ReactShiz#readme"
+}
