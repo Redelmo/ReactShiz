@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Redelmo/ReactShiz/issues"
   },
-  "homepage": "https://github.com/Redelmo/ReactShiz#readme"
+  "homepage": "https://github.com/Redelmo/ReactShiz#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma-jasmine": "^1.1.0"
+  }
 }
